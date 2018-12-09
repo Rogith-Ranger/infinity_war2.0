@@ -1,15 +1,15 @@
 # infinity_war2.0
 Infinity War 2.0 User Authentication Task
 Ive used the following packages, so install these while testing :-
-express
-passport
-mongoose
-path
-multer
-gridfs-stream
-multer-gridfs-storage
-method-override
-dialog
+express,
+passport,
+mongoose,
+path,
+multer,
+gridfs-stream,
+multer-gridfs-storage,
+method-override,
+dialog.
 
 
 
