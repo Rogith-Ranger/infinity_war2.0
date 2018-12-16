@@ -73,7 +73,7 @@ app.post('/', function(req, res){
     
  
         dialog.info('Invalid User Please Try again');
-        return res.redirect('/auth/ulogin');
+        return res.redirect('/');
 
     }
     else {console.log('Successfull Login');
